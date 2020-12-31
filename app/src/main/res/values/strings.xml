@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">carApp</string>
+    <string name="et_datails_model_hint">Model</string>
+    <string name="et_datails_color_hint">Color</string>
+    <string name="et_datails_dbl_hint">Distance per litter</string>
+    <string name="et_datails_description_hint">Description</string>
+</resources>
